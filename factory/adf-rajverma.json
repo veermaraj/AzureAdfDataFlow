@@ -1,0 +1,9 @@
+{
+	"name": "adf-rajverma",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49f52e8d-8ab1-4298-abb0-448489af2e41",
+		"tenantId": "edd6be34-a338-4d30-9050-1a905fb1b5a0"
+	}
+}
